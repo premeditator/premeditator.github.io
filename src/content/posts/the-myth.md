@@ -5,7 +5,6 @@ date: "Jan 22 2026"
 ---
 
 <style>
-	@import url("https://fonts.googleapis.com/css2?family=Jacquard+12&family=Jacquard+24&display=swap");
 	.myth {
 		font-family: "Jacquard 12", serif;
 		font-size: 1.4rem;
