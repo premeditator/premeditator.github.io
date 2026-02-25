@@ -47,7 +47,10 @@
       @apply my-4 rounded-lg border dark:border-zinc-700;
     }
     blockquote {
-      @apply my-4 border-l-2 pl-4;
+      @apply my-4 border-l-2 border-zinc-200 pl-4 dark:border-zinc-800;
+    }
+    hr {
+      @apply my-6 border-zinc-200 dark:border-zinc-800;
     }
     a {
       @apply text-blue-500 underline;
